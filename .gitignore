@@ -1,0 +1,5 @@
+# User-specific files
+
+# Build results
+.build/
+.vscode/
